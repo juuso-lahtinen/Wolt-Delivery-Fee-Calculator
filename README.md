@@ -4,26 +4,16 @@ This is based on the task found from this link: https://github.com/woltapp/engin
 
 This is the Frontend (React + TS) version. 
 
-# Getting Started with Create React App
+# TO RUN THIS PROJECT
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+From .ZIP file
+Extract the folder
+Navigate to the folder on your terminal
 
-## Available Scripts
+Run 'npm install'
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Then you're set and you can run 'npm start'
+which will open a new window on your browser
 
 ### Comments on the task
 
