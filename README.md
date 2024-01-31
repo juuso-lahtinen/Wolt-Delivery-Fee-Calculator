@@ -1,22 +1,22 @@
 # This is Juuso Lahtinen's application task to Wolt Sumer 2024 Engineer Internship
 
-This is based on the task found from this link: https://github.com/woltapp/engineering-internship-2024
+This is fee calculator based on the task found from this link: https://github.com/woltapp/engineering-internship-2024
 
 This is the Frontend (React + TS) version. 
 
 # TO RUN THIS PROJECT
 
-From .ZIP file
+From .ZIP file:
 
 Extract the folder
 
 Navigate to the folder on your terminal
 
+Once you've navigated to the location of the project folder
+
 Run 'npm install'
 
 Then you're set and you can run 'npm start'
-
-which will open a new window on your browser
 
 ### Comments on the task
 
